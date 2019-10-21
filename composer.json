@@ -1,0 +1,7 @@
+{
+	"name": "lancrew",
+	"description": "putting the G in GBS",
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
